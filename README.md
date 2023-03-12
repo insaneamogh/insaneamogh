@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @insaneamogh
-- 👀 I’m interested in web development Ai blockchain
-- 🌱 I’m currently learning cryptocurrency analysis
+- 👀 I’m interested in Web Development, Blockchain Technologies, Artifical Intelligence.
+- 🌱 I’m currently learning AI ML DS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me clasheramogh112@gmail.com
 
